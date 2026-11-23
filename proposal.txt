@@ -1,0 +1,9 @@
+I found a Poker Hand History Dataset which includes among other things 21,605,687 hands from anonymized hand history logs and all 10,000 hands played by Pluribus. The data is formatted in a Poker Hand History (PHH-) File, which is a derivative of the TOML format.
+Real human's poker data is interesting, as other dataset are oftenly generated and don't come from actual players. Additionally I am very curious about the 10,000 hands played by Pluribus, as this AI by Meta and Carnegie Mellon University was able to beat professionals and is not Open Source available.
+For my final project I would like to firstly read and process this new PHH-Format to use in Python and then analyse the data especially with regard to the performance difference of humans and AI.
+
+Possible research questions (depending on how far i will get):
+- Varifying what we already know: Does Pluribus play better then human players?
+- How much better is Pluribus compared to human players? (e.g. Number of big blinds/100 hands that are won)
+- Which hands does the AI play better than the human?
+- Which situations should a human play differently and how? (this one is probably too hard)
